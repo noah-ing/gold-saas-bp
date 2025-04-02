@@ -18,7 +18,7 @@ gem "dotenv-rails"
 
 # Stripe and subscription management
 gem "stripe", "~> 9.0"
-gem "pay", "~> 6.8"
+gem "pay", "~> 9.0"
 gem "stripe_event"
 
 gem "bootsnap", require: false
