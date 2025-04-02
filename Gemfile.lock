@@ -380,7 +380,7 @@ GEM
       net-ssh (>= 2.8.0)
       ostruct
     stringio (3.1.6)
-    stripe (9.4.0)
+    stripe (13.5.0)
     stripe_event (2.11.0)
       activesupport (>= 3.1)
       stripe (>= 2.8, < 14)
@@ -453,7 +453,7 @@ DEPENDENCIES
   solid_cable
   solid_cache
   solid_queue
-  stripe (~> 9.0)
+  stripe (~> 13.5)
   stripe_event
   tailwindcss-rails
   thruster
