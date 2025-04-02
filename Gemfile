@@ -17,7 +17,7 @@ gem "resend"
 gem "dotenv-rails"
 
 # Stripe and subscription management
-gem "stripe", "~> 9.0"
+gem "stripe", "~> 13.5"
 gem "pay", "~> 6.8"
 gem "stripe_event"
 
